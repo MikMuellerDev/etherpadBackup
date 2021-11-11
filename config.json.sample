@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "type": "JSON",
+      "url": "https://pad.example.com/p/foo/export/etherpad",
+      "filename": "Foo.etherpad"
+    },
+    {
+      "type": "TEXT",
+      "url": "https://pad.example.com/p/bar/export/txt",
+      "filename": "Bar.txt"
+    }
+  ]
+}
