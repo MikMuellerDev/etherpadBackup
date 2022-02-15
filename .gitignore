@@ -7,8 +7,6 @@ yarn-error.log*
 
 #own stuff
 .idea
-archive/*
-out
 config.json
 
 # Runtime data
